@@ -1,5 +1,6 @@
 # keylogger009
-A keylogger tool that captures the keys when pressed 
+A keylogger tool that captures the keys automatically  when pressed
+it store the all the key logs in a file
 
 # Python Educational Keylogger
 
